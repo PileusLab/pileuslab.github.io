@@ -27,7 +27,7 @@ const config = {
       'classic',
       {
         docs: {
-          routeBasePath: '/', // site kökü doğrudan docs olacak
+          routeBasePath: 'docs', // site kökü doğrudan docs olacak
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/PileusLab/pileuslab.github.io/tree/main/',
         },

@@ -5,10 +5,10 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/docs/tutorial-basics/congratulations",
+  "permalink": "/tutorial-basics/congratulations",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/PileusLab/docs/tree/main/docs/tutorial-basics/congratulations.md",
+  "editUrl": "https://github.com/PileusLab/pileuslab.github.io/tree/main/docs/tutorial-basics/congratulations.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Tutorial - Extras",
-    "permalink": "/docs/category/tutorial---extras"
+    "permalink": "/category/tutorial---extras"
   }
 }

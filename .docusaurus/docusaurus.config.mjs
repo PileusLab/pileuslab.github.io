@@ -4,15 +4,14 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "PileusLab Docs",
-  "tagline": "Documentation as Code - Powered by Docusaurus 🚀",
+  "title": "PileusLab Site",
+  "tagline": "Welcome to PileusLab official documentation site",
   "favicon": "img/favicon.ico",
   "url": "https://pileuslab.github.io",
-  "baseUrl": "/docs/",
+  "baseUrl": "/",
   "trailingSlash": false,
   "organizationName": "PileusLab",
-  "projectName": "docs",
-  "deploymentBranch": "gh-pages",
+  "projectName": "pileuslab.github.io",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -28,12 +27,12 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/PileusLab/docs/tree/main/"
+          "sidebarPath": "/Users/serdarcanbuyukdereli/pileus/pileuslab.github.io/sidebars.js",
+          "editUrl": "https://github.com/PileusLab/pileuslab.github.io/tree/main/"
         },
         "blog": false,
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "/Users/serdarcanbuyukdereli/pileus/pileuslab.github.io/src/css/custom.css"
         }
       }
     ]
@@ -53,7 +52,7 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/PileusLab/docs",
+          "href": "https://github.com/PileusLab/pileuslab.github.io",
           "label": "GitHub",
           "position": "right"
         }
@@ -82,7 +81,7 @@ export default {
           ]
         }
       ],
-      "copyright": "© 2025 PileusLab. Built with Docusaurus."
+      "copyright": "© 2025 PileusLab."
     },
     "prism": {
       "theme": {
